@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mersib
 - 👀 I’m interested in music and tech
 - 🌱 I’m currently learning guitar
-- 💞️ I’m looking to collaborate on some mindblowing tech idea
+- 💞️ I’m looking to collaborate on some mind blowing tech idea
 - 📫 How to reach me -> mtgs39@gmail.com
 
 <!---
